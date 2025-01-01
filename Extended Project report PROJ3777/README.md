@@ -35,7 +35,8 @@ Traffic congestion and delays for high-priority vehicles like ambulances and fir
 
 ## Gantt Chart
 
-*(Attach or describe your Gantt chart here.)*
+*![image](https://github.com/user-attachments/assets/7fa2fd3c-50a7-4c00-9c85-79ff5cdd5a4c)
+*
 
 ## Target IEEE Conferences
 
