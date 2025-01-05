@@ -1,3 +1,9 @@
+# Department of Electrical, Electronics, and Communication Engineering
+
+## GITAM School of Technology
+
+### GITAM (Deemed to be University), Bengaluru, India
+
 # Smart Traffic Management System
 
 This repository contains the implementation of a **Smart Traffic Management System** that detects emergency vehicles and optimizes traffic signals dynamically using deep learning techniques.
