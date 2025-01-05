@@ -5,4 +5,4 @@
 **Cluster Name:** AI/ML (Group: A11)  
 **Project Supervisor:** Sanhita Manna  
 **Project Coordinator:** Dr. Ambar Bajpai  
-C:\Users\Jithendhra\Downloads\DALL·E 2025-01-05 07.42.08 - An artistic depiction of a smart traffic management system using deep learning models. The image features a busy traffic intersection with multiple la.webp
+https://drive.google.com/file/d/1zclWskSm_5lQE9SylcYMr7xme2N0tABu/view?usp=drive_link
