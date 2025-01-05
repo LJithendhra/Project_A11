@@ -16,7 +16,8 @@ The system is designed to manage traffic signals dynamically based on real-time 
 ---
 
 ### 2. Workflow Diagram
-https://ibb.co/VvWcg8x
+![Screenshot 2025-01-05 121433](https://github.com/user-attachments/assets/c8ca82c9-acd3-4d6e-bc25-3f5839af3949)
+
 
 
 ---
