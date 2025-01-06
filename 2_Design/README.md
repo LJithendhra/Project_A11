@@ -1,6 +1,10 @@
 # Architecture
 ![Screenshot 2025-01-05 121433](https://github.com/user-attachments/assets/b75fba65-a62d-4da2-8b97-6fdf76788425)
 
+# Methodology
+![image](https://github.com/user-attachments/assets/5043d6cc-b0b1-44c4-a490-cef80260f99b)
+
+
 ## Component Design
 
 ### 1. Input Module
