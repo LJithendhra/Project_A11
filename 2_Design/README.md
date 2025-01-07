@@ -1,11 +1,13 @@
 # Architecture
-![Screenshot 2025-01-05 121433](https://github.com/user-attachments/assets/b75fba65-a62d-4da2-8b97-6fdf76788425)
+![Screenshot 2025-01-07 102206](https://github.com/user-attachments/assets/2c16178a-111f-4dd0-914e-ed54c29ea993)
+
 
 # Methodology
 
 
 
-## Component Design
+## Component Design)
+
 
 ### 1. Input Module
 - **Functionality:** Captures video feed from cameras and preprocesses it using OpenCV.
