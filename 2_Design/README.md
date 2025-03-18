@@ -1,5 +1,6 @@
 # Architecture
-![Screenshot 2025-01-07 102206](https://github.com/user-attachments/assets/2c16178a-111f-4dd0-914e-ed54c29ea993)
+![image](https://github.com/user-attachments/assets/7816ffcd-59ed-4724-94b4-95927375a459)
+
 
 
 # Methodology
