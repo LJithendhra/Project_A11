@@ -1,0 +1,63 @@
+/* EmergencyAlert.css */
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .vehicle-list {
+    background: #e9ecef;
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  .vehicle-list h3 {
+    font-size: 18px;
+    color: #444;
+  }
+  
+  .vehicle-list ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .vehicle-list li {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 5px 0;
+  }
+  
+  .no-data {
+    color: #999;
+    font-size: 16px;
+  }
+  
+  .alert-box {
+    margin-top: 20px;
+    padding: 15px;
+    background: #ffeb3b;
+    color: #333;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+  
+  .alert-box h2 {
+    font-size: 20px;
+    color: #d32f2f;
+  }
+  
+  .alert-box p {
+    font-size: 16px;
+  }
+  
